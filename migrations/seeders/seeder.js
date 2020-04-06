@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
 
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 
 module.exports = {
   up: async (queryInterface, Sequelize) => { // eslint-disable-line no-unused-vars
