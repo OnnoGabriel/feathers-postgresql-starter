@@ -2,6 +2,8 @@
 
 > A Feathers starter project including the Sequelize ORM for PostgreSQL.
 
+> :warning: This project is outdated. The repo is archived.
+
 ## About
 
 This project uses
